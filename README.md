@@ -1,0 +1,12 @@
+# factors_affecting_salary
+![슬라이드3](https://user-images.githubusercontent.com/106293176/227115478-436e94ad-da29-4044-8fab-75590ab57370.PNG)
+![슬라이드5](https://user-images.githubusercontent.com/106293176/227115480-ab5745ad-eaa8-45e3-9e1e-1bb17376958d.PNG)
+![슬라이드6](https://user-images.githubusercontent.com/106293176/227115482-9695ec82-849d-4253-8b23-6fb70d2b6360.PNG)
+![슬라이드7](https://user-images.githubusercontent.com/106293176/227115483-10f98448-0b71-4c50-b604-6d93a7c854cf.PNG)
+![슬라이드8](https://user-images.githubusercontent.com/106293176/227115489-ba279729-8117-4430-889c-0615a9111b21.PNG)
+![슬라이드9](https://user-images.githubusercontent.com/106293176/227115490-c9edeb71-687a-4d36-b1ff-c532c0f3ce56.PNG)
+![슬라이드10](https://user-images.githubusercontent.com/106293176/227115501-33a4897b-9bc7-4131-a610-0eb943447903.PNG)
+![슬라이드11](https://user-images.githubusercontent.com/106293176/227115503-2e47d3ba-0e02-439e-aaae-c83c172ecef5.PNG)
+![슬라이드12](https://user-images.githubusercontent.com/106293176/227115504-72bb3719-f8bf-4cb8-a855-065139215dee.PNG)
+![슬라이드13](https://user-images.githubusercontent.com/106293176/227115506-3361417e-5bf2-4568-83ed-aefc44f8c7da.PNG)
+![슬라이드14](https://user-images.githubusercontent.com/106293176/227115507-9c3206c4-5d68-413b-9dcf-6ffa8abca80d.PNG)
